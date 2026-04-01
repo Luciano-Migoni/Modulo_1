@@ -16,7 +16,7 @@ Enlace a perfil de GitHub: [Luciano Migoni](https://github.com/Luciano-Migoni)
 
 ### Yo
 
-![Luciano Migoni](https://github.com/user-attachments/assets/4cf7cc61-dd29-41ad-aef5-13fe769184dc)
+![Luciano Migoni](https://github.com/user-attachments/assets/1ecdc930-bdb0-4fa0-b811-86f607673a9f)
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1ecdc930-bdb0-4fa0-b811-86f607673a9f" />
 
 
