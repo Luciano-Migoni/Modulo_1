@@ -21,4 +21,4 @@ Enlace a perfil de GitHub: [Luciano Migoni](https://github.com/Luciano-Migoni)
 
 ### Curriculum Vitae en LaTex
 
-
+Enlace a CV por Github: [Curriculum Vitae](https://github.com/Luciano-Migoni/Modulo_1/blob/main/CV_Migoni_Luciano.pdf)
