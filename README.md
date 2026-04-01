@@ -22,9 +22,3 @@ Enlace a perfil de GitHub: [Luciano Migoni](https://github.com/Luciano-Migoni)
 ### Curriculum Vitae en LaTex
 
 
-
-
-
-
-
-
