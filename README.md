@@ -1,19 +1,17 @@
 # Modulo_1
 
-## Autor: Migoni Luciano
 
 ---
 
-### Información Personal:
 
-Enlace a perfil de GitHub: [Luciano Migoni](https://github.com/Luciano-Migoni)  
+**Ejercicio 1: Como crear, modificar y hacer el archivo README.md**
 
-|Nombre|Legajo|Correo|Telefono|Grupo de trabajo|
-|----|----|----|----|----|
-|Luciano Migoni|14713|lucianomigoni2005@gmail.com|2615664935|[Actitud Positiva :)](https://github.com/Luciano-Migoni/Entregas)|
+**Ejercicio 2: Creación de un archivo html en forma manual**
 
----
+**Ejercicio 3: Crear un archivo LATex en <https://overleaf.com>**
 
-### Curriculum Vitae en LaTex
+**Ejercicio 4: Creación de notebooks**
 
-Enlace a CV por Github: [Curriculum Vitae](https://github.com/Luciano-Migoni/Modulo_1/blob/main/CV_Migoni_Luciano.pdf)
+**Ejercicio 5: Creación de un CV en LATex**
+
+**Ejercicio 6: Creación de un archivo con metadatos en el entorno R**
